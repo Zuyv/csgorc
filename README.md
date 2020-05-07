@@ -14,6 +14,6 @@ exec jian
 
 3. Defeat the enemies.
 
-## LICENSE
+## License
 
 MIT
