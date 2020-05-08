@@ -9,11 +9,11 @@ powershell.exe -File update.ps1
 
 2. Execute the config file in CS:GO's in-game console.
 ```
-exec jian
+exec csgorc
 ```
 
 3. Defeat the enemies.
 
-## LICENSE
+## License
 
 MIT
